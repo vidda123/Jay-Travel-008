@@ -1,0 +1,32 @@
+body{
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.nav-header{
+    color: orangered;
+    font-weight: 600;
+    font-size:xx-large;
+}
+.nav-header:hover{
+    color: orange;
+}
+.nav-background{
+    background-color: black;
+}
+.sub-header{
+    color: white;
+}
+.sub-header:hover{
+    color: orange;
+}
+.grid-img1{
+    object-fit: contain;
+}
+.grid-bg1{
+    background-color: rgb(1, 1, 36);
+    color: white;
+}
+.grid-bg2{
+    background-color: rgb(49, 49, 88);
+    color: white;
+}

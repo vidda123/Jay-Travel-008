@@ -1,0 +1,77 @@
+body{
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.nav-header{
+    color: orangered;
+    font-weight: 600;
+    font-size:xx-large;
+}
+.nav-header:hover{
+    color: orange;
+}
+.nav-background{
+    background-color: black;
+}
+.sub-header{
+    color: white;
+}
+.sub-header:hover{
+    color: orange;
+}
+.hero-cover{
+    object-fit: cover;
+}
+.grid-header{
+    color: orangered;
+}
+.grid-img{
+    height: 130px;
+}
+.leader-img{
+    height: 400px;
+    object-fit: contain;
+}
+.static-numbers{
+    background-color: rgb(1, 1, 46);
+    padding: 50px;
+}
+.static-number{
+    color: orangered;
+}
+.card-footer{
+    background-color:rgb(126, 126, 253);
+    padding-top: 0.2px ;
+}
+.form-control{
+    width: 400px;
+}
+.footer-background{
+    background-color: rgb(1, 1, 46) ;
+    padding: 50px;
+    color: white;
+}
+.copyright-section{
+    background-color: black;
+    color: white;
+}
+.firstname{
+    align-content: center;
+    width: 250px;
+}
+.lastname{
+    align-content: end;
+    width: 250px;
+}
+.email{
+    width: 520px;
+}
+.phone-number{
+    width: 520px;
+}
+.form-btn{
+    width: 250px;
+}
+.footer-font{
+    font-size: smaller;
+}
